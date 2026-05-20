@@ -1,9 +1,11 @@
-# Portfolio Project
 
-This is my personal portfolio website built using HTML, CSS and JavaScript.
+Student Information
 
-## Features
-- Responsive design
-- Projects section
-- About me section
-- Contact form
+- Github Name: 2003analyst
+- Reg No: 24BCS011
+
+
+link
+https://github.com/2003analyst/portfolio.git
+
+
